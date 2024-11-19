@@ -1,0 +1,10 @@
+{
+    "tp": [
+        "根据行业类别{industry},以及子类别{sub_industry},以及细分类别{sub_sub_industry},应用场景{application_scene},并根据选择的题目：{title_selected}，给出大纲分析",
+        "根据行业类别{industry},以及子类别{sub_industry},以及细分类别{sub_sub_industry},应用场景{application_scene},并根据选择的题目：{title_selected}，分析模块"
+    ],
+    "tag": [
+        "大纲分析",
+        "模块分析"
+    ]
+}
